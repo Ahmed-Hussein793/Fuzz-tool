@@ -5,7 +5,7 @@
   "description": "Simple URL fuzzing CLI tool",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "run": "node fuzzing.js"
   },
   "keywords": [ "FUZZ", "Fuzzing Tool" ],
   "author": "Ahmed Hussein",
