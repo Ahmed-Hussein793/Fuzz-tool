@@ -26,7 +26,7 @@ npm install
 ```
 ## ⚙️ Usage
 ```
-node fuzzer.js -u https://example.com/FUZZ -w wordlist.txt -t 50
+node fuzzing.js -u https://example.com/FUZZ -w wordlist.txt -t 50
 ```
 
 ### Options
