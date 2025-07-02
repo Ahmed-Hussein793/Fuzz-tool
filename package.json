@@ -1,0 +1,18 @@
+{
+  "name": "fuzzing",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Simple URL fuzzing CLI tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [ "FUZZ", "Fuzzing Tool" ],
+  "author": "Ahmed Hussein",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^14.0.0",
+    "p-limit": "^6.2.0"
+  }
+}
